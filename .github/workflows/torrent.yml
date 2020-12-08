@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Natalies nightstand"
-  comment: "Joseph"
+  name: Natalies nightstand
+  comment: Joseph
   url: https://drive.google.com/file/d/1AVrYNpCD44SxA8gmN9wMdZsNxmt3fQwD/view?usp=sharing
-  piece_size: 2^22 # Check the README.md for recommended piece size
+  piece_size: 22 # Check the README.md for recommended piece size
       
 jobs:
   create:
