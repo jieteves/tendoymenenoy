@@ -1,4 +1,4 @@
-name: Lelo_Sona_2_Cruise
+name: Lelo Sona 2 Cruise
 on:
   push:
     branches:
@@ -8,6 +8,7 @@ env:
   name: "Natalies nightstand"
   comment: "Joseph"
   url: https://drive.google.com/file/d/1AVrYNpCD44SxA8gmN9wMdZsNxmt3fQwD/view?usp=sharing
+  file_name: "Natalies nightstand"  
   piece_size: 22 # Check the README.md for recommended piece size
       
 jobs:
